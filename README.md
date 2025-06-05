@@ -1,5 +1,5 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
-
+# Implementation of combinational logic circuits using Verilog HDL
 **AIM**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
@@ -8,7 +8,7 @@ F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
 
 F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
-**Equipment Required:**
+**Equipment Required**
 
 Hardware – PCs, Cyclone II , USB flasher
 
@@ -31,7 +31,7 @@ Hardware – PCs, Cyclone II , USB flasher
 5.	For different input combinations generate the timing diagram.
 
 
-**Program:**
+**Program**
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
@@ -62,13 +62,13 @@ endmodule
 
 
 
-**Output:**
+**Output**
 ![Screenshot 2025-04-16 093114](https://github.com/user-attachments/assets/a3133189-2bc5-4002-af16-3a6c24f1ee39)
 ![Screenshot 2025-04-16 094821](https://github.com/user-attachments/assets/df66c4b6-03a3-4a3b-80d0-315a819ac837)
 
 
 
-**Result:**
+**Result**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
